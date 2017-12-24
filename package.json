@@ -1,0 +1,9 @@
+{
+  "name": "oas-redux",
+  "version": "0.0.1",
+  "description": "Generate actions and reducers from an open api specification",
+  "main": "index.js",
+  "repository": "https://github.com/ryanhair/oas-redux-codegen.git",
+  "author": "Ryan Hair",
+  "license": "MIT"
+}
